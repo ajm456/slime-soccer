@@ -1,4 +1,4 @@
-package slimeSoccer;
+package server;
 
 public class Maths 
 {

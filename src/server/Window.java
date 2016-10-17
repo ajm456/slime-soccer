@@ -1,4 +1,4 @@
-package slimeSoccer;
+package server;
 
 import java.awt.Dimension;
 import java.awt.Toolkit;

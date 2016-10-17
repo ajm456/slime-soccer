@@ -1,4 +1,4 @@
-package slimeSoccer;
+package server;
 
 import java.awt.Color;
 import java.awt.Font;
