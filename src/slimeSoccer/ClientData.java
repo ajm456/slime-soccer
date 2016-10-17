@@ -1,4 +1,4 @@
-package slimeTennis;
+package slimeSoccer;
 
 import java.io.DataInputStream;
 import java.io.IOException;

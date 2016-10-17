@@ -1,4 +1,4 @@
-package slimeTennis;
+package slimeSoccer;
 
 public class Maths 
 {

@@ -1,4 +1,4 @@
-package slimeTennis;
+package slimeSoccer;
 
 import java.awt.Color;
 import java.awt.Graphics;
